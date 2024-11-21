@@ -14,5 +14,6 @@ export class AppComponent {
 
   onOption(menuOption: string) {
     this.menuOption = menuOption;
+    
   }
 }
