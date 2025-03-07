@@ -1,0 +1,12 @@
+h1{
+    font-size:4rem
+}
+p{
+    font-size:larger;
+}
+.section-one{
+    display: block; 
+    width: 40vw;
+    margin-left: 7rem;
+    padding-right: 4rem;
+}

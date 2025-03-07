@@ -35,12 +35,7 @@
     font-style: italic;
     font-size: large;
 }
-.section-one{
-    display: block; 
-    width: 40vw;
-    margin-left: 7rem;
-    padding-right: 4rem;
-}
+
 .container{
     margin: 0;
     padding: 0;
@@ -57,9 +52,6 @@ img{
 .descripcion-aside{
     color: white;
 }
-h1{
-    font-size:4rem
-}
 h2 {
     color:white;
     text-indent: -20px;
@@ -68,9 +60,7 @@ h2 {
     line-height: 2.3vw;
     text-align: start;
 }
-p{
-    font-size:larger;
-}
+
 .section{
     display: block;
     width: 99.1vw;
